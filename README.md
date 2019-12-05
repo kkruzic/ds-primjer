@@ -6,3 +6,5 @@ Projekt iz predmeta [Distribuirani sustavi](https://lab.miletic.net/hr/nastava/k
 ##Zahtjevi
 
 Projekt koristi Python 3.8 i mpi4py
+
+[link](https://www.inf.uniri.hr)
